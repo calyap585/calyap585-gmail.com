@@ -1,0 +1,207 @@
+<html>
+<head>
+<title>Biodata Murid</title>
+</head>
+<body>
+<h1 style="
+color: chocolate;
+">Biodat Murid</h1>
+<p>Perofil ringkas murid untuk keperluan administrasi sekolah</p>
+<h2 style="
+color: blueviolet;
+">Identitas</h2>
+<table border="1" callspadding="0" cellpadding="5" style="
+color:#E91E63;
+border: 3px solid ;">
+<tr>
+<td>Nama Lengkap</td>
+<td>hafiis Putri Meilani</td>
+</tr>
+<tr>
+<td>Nama Panggilan</td>
+<td>fis</td>
+</tr>
+<tr>
+<td>NISN</td>
+<td>0010045678</td>
+</tr>
+<tr>
+<td>Tanggal Lahir</td>
+<td>29 januari 2010</td>
+</tr>
+<tr>
+<td>Jenis Kelamin</td>
+<td>Perempuan</td>
+</tr>
+<tr>
+<td>Agama</td>
+<td>Islam</td>
+</tr>
+<tr>
+<td>Golongan Darah</td>
+<td>O</td>
+</tr>
+</table>
+<hr>
+<hr2 style="
+color: coral;
+">Alamart</hr2>
+<address>
+" Jl.Wates RT 02 / RW 05"
+<br>
+" Kelurahan Giriwoyo, Kecamatan Giriwoyo"
+" Kota WONOGIRI, Jawa Tengah 57675"
+<br>
+" Indonesia"
+</address>
+<h3 style="
+color: brown;
+">kontak</h3>
+<table border="1" callspadding="0" cellpadding="5" style="
+color:#E91E63;
+border: 3px solid ;">
+<tbody> 
+<tr>
+<td>Telepon</td> 
+<td>
+<a href="tel:+6283838832511">+62 383-8832-511</a>
+</td>
+</tr>
+<tr>
+<td>Email</td>
+<td>
+<a href="mailto:calyap585@gmail.com">calyap@gmail.com</a>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<hr2 style="
+color: aqua;
+">Orang Tua / Wali</hr2>
+<table border="1" callspadding="0" cellpadding="5" style="
+color:#E91E63;
+border: 3px solid ;">
+<tbody> 
+<tr>
+<td>Nama Ayah</td>
+<td>Katemin</td>
+</tr>
+<tr>  
+<td>Nama Ibu</td>
+<td>Porwanti</td>
+</tr>
+<tr>
+<td>Kontak Wali</td>
+<td> 
+<a href="tel:+6283838832511">+62 383-87832-511</a>
+</td>
+</tr>
+</tbody>
+</table>
+<hr> 
+<h2 style="
+    color: blueviolet;
+">Pendidikan</h2>
+<table border="1" callspadding="0" cellpadding="5" style="
+color:#E91E63;
+border: 3px solid ;">
+<thead>
+<tr>
+<th>Tahun</th> 
+<th>Sekolah</th>
+<th>Keterangan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2015-2016</td>
+<td>TK Pembina</td>
+<td>Lulus</td>
+</tr> 
+<tr>
+<td>2016-2021</td>
+<td>SD Negri 3 Giriwoyo</td>
+<td>Lulus</td> 
+</tr> 
+<tr>
+<td>2021-2024</td>
+<td>SMP Negeri 1 Giriwoyo</td>
+<td>Lulus</td>
+</td>
+</tr>
+</tbody>
+</table>
+<h2  style="
+    color: blueviole
+">Hobi & Minat</h2>
+<table border="1" callspadding="0" cellpadding="5" style="
+color:#E91E63;
+border: 3px solid ;">
+<tbody>
+<tr>
+<td>Menonton Derama</td>
+</tr>
+<tr>
+<td>Jalan-Jalan</td>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h2 style="
+    color: blueviole
+">Perestasi</h2>
+
+<table border="1" callspadding="0" cellpadding="5" style="color:#E91E63;border:3px solid ;">
+
+<tbody>
+<tr>
+<td>1</td>
+<td>Lulus Covit</td>
+</tr>
+</tbody>
+</table>
+
+
+<h2 style="
+    color: blueviole
+">kesehatan</h2>
+
+<table border="1" callspadding="0" cellpadding="5" style="
+color:#E91E63;
+border: 3px solid ;">
+<tbody>
+<tr>
+<td>Alergi</td>
+<td>-</td>
+</tr>
+<tr> 
+<td>Vaksinasi</td>
+<td>Lengkap Sesuai Usia</td>
+</tr>
+</tbody>
+</table>
+
+
+<h2 style="
+    color: blueviole
+">Kontak Darurat</h2>
+<table border="1" callspadding="0" cellpadding="5" style="
+color:#E91E63;
+border: 3px solid ;"> 
+<tbody>
+<tr> 
+<td>Nama</td>
+<td>Agus Supriadi</td>
+</td>
+</tr> 
+<td>Telpon</td>
+<td>+62 858-1155-1447</td>
+</td>
+</tr> 
+<td>Alamat</td>
+<td>JI.Kenangan NO.7,surakaraya,Bandung</td>
+</td>
+</tr>
+      
